@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=F8BBD0&height=100&section=header&animation=fadeIn)
 ![EunJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunJinPark98&show_icons=true&theme=dracula)
 
+
 ### Skills
 ![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
 ![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
@@ -12,10 +13,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 
-### Blog
-:computer: https://bagun-coding.tistory.com/
-:book: https://blog.naver.com/obliviscor29
-
-
-### Email
-:email: obliviscor29@naver.com
