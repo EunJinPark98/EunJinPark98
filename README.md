@@ -13,4 +13,9 @@
 
 
 ### Blog
-:computer:
+:computer: https://bagun-coding.tistory.com/
+:book: https://blog.naver.com/obliviscor29
+
+
+### Email
+:email: obliviscor29@naver.com
