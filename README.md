@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=F8BBD0&height=100&section=header&animation=fadeIn)
+![EunJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunJinPark98&show_icons=true&theme=radical)
 
 ### Skills
 ![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
