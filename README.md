@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=F8BBD0&height=150&section=header&text=EunJin's%20GitHub&fontSize=45&&fontColor=424242&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=F8BBD0&height=150&section=header&text=EunJin's%20GitHub&fontSize=45&&fontColor=000&animation=fadeIn)
 
 ![EunJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunJinPark98&show_icons=true&theme=dracula)
 
@@ -17,8 +17,9 @@
 
 
 
-
+<br>
 ### 💜 Me 💜
+
 <a href="https://bagun-coding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://blog.naver.com/obliviscor29/" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="mailto:obliviscor29@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=obliviscor29@gmail.com"/></a>
