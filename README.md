@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=F8BBD0&height=150&section=header&text=EunJin's%20GitHub&fontSize=45&&fontColor=000&animation=fadeIn)
 
-Hi there🌝
+Hi there🌝<br>
 I'm Eunjin, a rapidly growing web developer.🏃
 
 ![EunJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunJinPark98&show_icons=true&theme=dracula)
