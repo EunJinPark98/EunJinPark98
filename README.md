@@ -4,8 +4,10 @@
 
 ![EunJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunJinPark98&show_icons=true&theme=dracula)
 
+<br>
+<br>
 
-### 💙 Tech Stack 💙
+## 💙 Tech Stack 💙
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
@@ -19,7 +21,7 @@
 <br>
 <br>
 
-### 💜 Me 💜
+## 💜 Me 💜
 
 <a href="https://bagun-coding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://blog.naver.com/obliviscor29/" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
