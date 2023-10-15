@@ -2,10 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=F8BBD0&height=150&section=header&text=EunJin's%20GitHub&fontSize=45&&fontColor=000&animation=fadeIn)
 
-Hi there🌝<br>
-I'm Eunjin, a rapidly growing web developer.🏃
+## Hi there🥰 <br>
+## I'm Eunjin, a rapidly growing web developer.🏃
 
-![EunJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunJinPark98&show_icons=true&theme=dracula)
 
 <br>
 <br>
@@ -33,7 +32,14 @@ I'm Eunjin, a rapidly growing web developer.🏃
 <a href="https://blog.naver.com/obliviscor29/" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="mailto:obliviscor29@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=obliviscor29@gmail.com"/></a>
 
-</div>
 
 <br>
 <br>
+
+![EunJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunJinPark98&show_icons=true&theme=dracula)
+
+</div>
+
+
+
+
