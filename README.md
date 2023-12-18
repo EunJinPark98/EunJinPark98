@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=F8BBD0&height=150&section=header&text=EunJin's%20GitHub&fontSize=45&&fontColor=000&animation=fadeIn)
 
 <h3> Hi there🥰 </h3>
-<h3> I'm Eunjin, a rapidly growing web developer.🏃 </h3>
+<h3> I'm Eunjin, a rapidly growing Backend dev🏃 </h3>
 
 
 <br>
